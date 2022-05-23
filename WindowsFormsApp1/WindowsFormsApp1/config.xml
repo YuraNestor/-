@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TextBoxText>1010</TextBoxText>
+  <xorUse>false</xorUse>
+  <orUse>false</orUse>
+  <iUse>false</iUse>
+  <button17>false</button17>
+  <button16>false</button16>
+  <button18>false</button18>
+  <button19>false</button19>
+  <button20>false</button20>
+  <button21>false</button21>
+  <button22>false</button22>
+  <button23>false</button23>
+  <button24>false</button24>
+  <button25>false</button25>
+  <button26>false</button26>
+  <button27>false</button27>
+</Config>
